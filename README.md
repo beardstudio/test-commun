@@ -13,7 +13,7 @@ This project was created for testing diffrent manipulation on a git repositery
 
 ```
 
-Just clone the repo
+Just clone the repo (C'est tellement facile)
 
 ```
 
