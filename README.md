@@ -4,7 +4,7 @@
 
 ```
 
-This project was created for testing diffrent manipulation on a git repositery
+This project was created for testing different manipulation on a git repositery
 
 ```
 
