@@ -36,8 +36,12 @@ Just clone the repo (C'est tellement facile)
         
 ![Figure 11.1][1]
 
-[1] Html Css
+[1] https://upload.wikimedia.org/wikipedia/commons/7/7e/Sideways_Arrow_Icon.png
+
+![Figure 11.2][2]
+
+[2]: https://upload.wikimedia.org/wikipedia/commons/7/7e/Sideways_Arrow_Icon.png
 
 ## Test
 
-> Si vous avez une erreur `TemplateDoesNotExists`, essayez de redémarrer votre serveur. Prenez votre ligne de commande et arrêtez votre serveur en appuyant simultanément sur Ctrl+C (les touches Control et C de votre clavier). Vous pouvez le relancer en tapant la commande `python manage.py runserver`.
+> Lorem ipsum `Template`, ipsum setes atipis loopas stipus (les touches Control et C de votre clavier). Vous pouvez le relancer en tapant la commande `Bretzel`.
