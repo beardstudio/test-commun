@@ -17,11 +17,9 @@ Just clone the repo (C'est tellement facile)
 
 ```
 
-## Who created this project ? 
+## Author 
 
 ```
-
-Author : 
 
 Backend Developer   : Sami Aibeche
 Frontend Developer  : François Tacoen
