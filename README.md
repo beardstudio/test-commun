@@ -33,7 +33,6 @@ Just clone the repo (C'est tellement facile)
 
 
 ## Environment
-
         
 ![Figure 11.1][1]
 
