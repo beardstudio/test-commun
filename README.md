@@ -21,8 +21,8 @@ Just clone the repo (C'est tellement facile)
 
 ```
 
-**Backend Developer**   : *Sami Aibeche*
-**Frontend Developer**  : *François Tacoen*
+* **Backend Developer**   : *Sami Aibeche*
+* **Frontend Developer**  : *François Tacoen*
 
 ```
 
