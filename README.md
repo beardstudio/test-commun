@@ -1,4 +1,4 @@
-## Git Test Project
+# Git Test Project
 
 ## What's Git Test Project ?
 
@@ -27,3 +27,8 @@ Backend Developer   : Sami Aibeche
 Frontend Developer  : François Tacoen
 
 ```
+
+
+## Link tips
+
+* [Github - cmd line](https://gist.github.com/aquelito/8596717) - The web doc git
