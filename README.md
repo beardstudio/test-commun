@@ -34,6 +34,7 @@ Just clone the repo (C'est tellement facile)
 
 ## Environment
 
-blog
-    └───templates
-        └───blog
+        
+![Figure 11.1][1]
+
+[1] Html Css
