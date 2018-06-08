@@ -30,3 +30,10 @@ Just clone the repo (C'est tellement facile)
 ## Link tips
 
 * [Github - cmd line](https://gist.github.com/aquelito/8596717) - The web doc git
+
+
+## Environment
+
+blog
+    └───templates
+        └───blog
