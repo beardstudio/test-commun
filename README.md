@@ -41,3 +41,9 @@ Just clone the repo (C'est tellement facile)
 ## Test
 
 > Lorem ipsum `Template`, ipsum setes atipis loopas stipus (les touches Control et C de votre clavier). Vous pouvez le relancer en tapant la commande `Bretzel`.
+
+## To do list
+
+- [ ] Read me Styling
+- [ ] Options and shortcut in Sourcetree
+- [ ] Github
