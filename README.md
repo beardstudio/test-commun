@@ -48,4 +48,4 @@ Sass
 
 - [ ] Read me Styling
 - [ ] Options and shortcut in Sourcetree
-- [ ] Github
+- [ ] Github learning
