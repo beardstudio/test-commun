@@ -19,7 +19,7 @@ Just clone the repo (C'est tellement facile)
 
 ## Author 
 
-**Backend Developer**   : *Sami Aibeche* . 
+**Backend Developer**   : *Sami Aibeche*<br/>
 **Frontend Developer**  : *François Tacoen*
 
 
