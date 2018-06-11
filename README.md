@@ -33,14 +33,16 @@ Just clone the repo (C'est tellement facile)
 ![Figure 11.1][1]
 
 [1]: https://www.carlisleccw.com/_images/double-arrow-right.png
+Html Css native
 
 ![Figure 11.2][2]
 
 [2]: https://www.carlisleccw.com/_images/double-arrow-right.png
+Sass
 
 ## Test
 
-> Lorem ipsum `Template`, ipsum setes atipis loopas stipus (les touches Control et C de votre clavier). Vous pouvez le relancer en tapant la commande `Bretzel`.
+> Tutorial and test on github `environement`.
 
 ## To do list
 
