@@ -32,11 +32,11 @@ Just clone the repo (C'est tellement facile)
         
 ![Figure 11.1][1]
 
-[1]: https://upload.wikimedia.org/wikipedia/commons/7/7e/Sideways_Arrow_Icon.png
+[1]: https://www.carlisleccw.com/_images/double-arrow-right.png
 
 ![Figure 11.2][2]
 
-[2]: https://upload.wikimedia.org/wikipedia/commons/7/7e/Sideways_Arrow_Icon.png
+[2]: https://www.carlisleccw.com/_images/double-arrow-right.png
 
 ## Test
 
