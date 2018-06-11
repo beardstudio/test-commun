@@ -33,24 +33,23 @@ Just clone the repo (C'est tellement facile)
 
 ```console
 
-Run on gulp - npm install / Gulp
+Terminal: Run on gulp
+Terminal: npm install / Gulp
 
 ```
 
 ```console
 
-Config Sass Partial
+Config : Sass Partial
 
 ```
 
 ## Test
 
-> ![Figure 11.1][1]
-
-[1]: https://www.carlisleccw.com/_images/double-arrow-right.png Tutorial and test on `github environement`. 
+> Tutorial and test on `github environement`. 
 
 ## To do list
 
-- [ ] Read me Styling
+- [X] Read me Styling
 - [ ] Options and shortcut in Sourcetree
 - [ ] Github learning
