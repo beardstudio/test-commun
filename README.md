@@ -33,14 +33,14 @@ Just clone the repo (C'est tellement facile)
 
 ```console
 
-Terminal: Run on gulp
-Terminal: npm install / Gulp
+Terminal = Run on gulp
+Terminal = npm install / Gulp
 
 ```
 
 ```console
 
-Config : Sass Partial
+Config = Sass Partial
 
 ```
 
