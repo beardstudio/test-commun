@@ -30,18 +30,13 @@ Just clone the repo (C'est tellement facile)
 
 ## Environment
         
-![Figure 11.1][1]
 
-[1]: https://www.carlisleccw.com/_images/double-arrow-right.png
 ```console
 
 Run on gulp - npm install / Gulp
 
 ```
 
-![Figure 11.2][2]
-
-[2]: https://www.carlisleccw.com/_images/double-arrow-right.png
 ```console
 
 Config Sass Partial
@@ -50,7 +45,9 @@ Config Sass Partial
 
 ## Test
 
-> Tutorial and test on `github environement`.
+> ![Figure 11.1][1]
+
+[1]: https://www.carlisleccw.com/_images/double-arrow-right.png Tutorial and test on `github environement`. 
 
 ## To do list
 
