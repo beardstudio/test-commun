@@ -42,7 +42,7 @@ Sass
 
 ## Test
 
-> Tutorial and test on github `environement`.
+> Tutorial and test on `github environement`.
 
 ## To do list
 
